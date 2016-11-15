@@ -10,3 +10,4 @@ libbbexample_la_LDFLAGS= -version-info 1:0:0
 bin_PROGRAMS = bbexample
 bbexample_SOURCES = bbexample.c
 bbexample_LDADD = .libs/libbbexample.la
+bbexample_DEPENDENCIES = libbbexample.la

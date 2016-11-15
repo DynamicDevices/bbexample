@@ -1,3 +1,21 @@
+# Autotools generated files
+/Makefile.in
+/autom4te.cache
+/autoscan.log
+/autoscan-*.log
+/aclocal.m4
+/compile
+/config.guess
+/config.h.in
+/config.sub
+/configure
+/configure.scan
+/depcomp
+/install-sh
+/ltmain.sh
+/missing
+/stamp-h1
+
 # Object files
 *.o
 *.ko
@@ -21,3 +39,7 @@
 *.i*86
 *.x86_64
 *.hex
+
+# Yocto devtool temp folders
+/oe-logs
+/oe-workdir
