@@ -11,6 +11,9 @@
 int main(int argc, char *argv[])
 {
   printf("Hello Yocto World...\n");
+  printf("Hello Yocto World...\n");
+  printf("Hello Yocto World...\n");
+  printf("Hello Yocto World...\n");
 
   LibHelloWorld();
 
